@@ -1,1 +1,2 @@
 .\TP_N1\dataset_compras.csv
+.\TP_N3\datos_zip
